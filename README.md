@@ -174,3 +174,4 @@ Execute the program
 ```
 
 # OUTPUT
+![img](murtab.png)
